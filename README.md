@@ -1,6 +1,6 @@
-# Storyblok Field-Type
+# Storyblok Datesync Plugin
 
-> A Storyblok Field-Type Plugin Project
+> A Storyblok Plugin that lets you set the story's date within a component, so you can still get sorted stories via the API.
 
 ## Build Setup
 
